@@ -245,10 +245,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.7.tgz#1ec4af4a16c554cbd402cc557ccdd874e3f7be53"
   integrity sha512-IKznSJOsVUuyt7cDzzSZyqBEcZe+7WlBqTVXiF1OXP/4Nm387ToaXZ0fyLwI1iBlI/bzpxVq411QE2/Bt2XWWw==
 
-"@huddle01/huddle01-iframe@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@huddle01/huddle01-iframe/-/huddle01-iframe-0.0.6.tgz#4a80bce55b0b3c9b4b278d09a90411853c933808"
-  integrity sha512-nCcwbr+y7qUKizyVNb1kyCRGiSJtPTshL5yWfQdRRZKr1zt6R8CSGxqf2yo41dTsA4xvg5VitTax1Ykpc8Oaow==
+"@huddle01/huddle01-iframe@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@huddle01/huddle01-iframe/-/huddle01-iframe-0.0.8.tgz#b1f9f1b5545575c4234baa1f0af943e27da04e64"
+  integrity sha512-UitrTEZZqm0X9ju/v5UiMUNoRzRay+ssXwYPbwS0GtwmhGvKJWSSoy6YHqMztm4udaeoTPxV+xncGdh4R+IKnQ==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
